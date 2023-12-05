@@ -2,14 +2,14 @@ export const Bio = {
   name: "Arushan Manoharan",
   roles: ["Frontend Developer", "Full Stack Developer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a hardworking and ambitious individual with a great passion for the Computer Science and Software Engineering industry. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills. My passion in life is utilizing my technical knowledge to benefit others and associations.",
   github: "https://github.com/Arush16101999",
   resume:
     "https://drive.google.com/file/d/149s9ij8ZtdEu1tdfj2Nx1YEzNv0xJ9sr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/arushan-manoharan-a9a534198/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  twitter: "https://github.com/Arush16101999",
+  insta: "https://github.com/Arush16101999",
+  facebook: "https://github.com/Arush16101999",
 };
 
 export const skills = [
@@ -281,7 +281,7 @@ export const projects = [
     description:
       "Recommending a Suitable player to bid in the IPL auction. To consider all the best batting features of the players created a novel statistical point generating formula approach. Additionally, build players overall, away, home, and recent performance calculation in four different model categories to achieve the accurate points based performance ranking and recommendation for the players.",
     image:
-      "https://private-user-images.githubusercontent.com/61136045/288026036-182e422a-2d06-41dd-804a-1c2a874b813b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3NzY4NzgsIm5iZiI6MTcwMTc3NjU3OCwicGF0aCI6Ii82MTEzNjA0NS8yODgwMjYwMzYtMTgyZTQyMmEtMmQwNi00MWRkLTgwNGEtMWMyYTg3NGI4MTNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDExNDI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllOGRjYWIyMjU0ZWUzYWRjY2VjY2FiYjBhZjNlMmU1ZGY1NTFlMTRjMDAzNmZjNTNiZWFmMTI3ZGYyZGFkMGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9hD8yIm2rS9PhreMhHSJkKraj97XMsoPlX7QBuJF_9M",
+      "https://private-user-images.githubusercontent.com/61136045/288026036-182e422a-2d06-41dd-804a-1c2a874b813b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODkyMDAsIm5iZiI6MTcwMTc4ODkwMCwicGF0aCI6Ii82MTEzNjA0NS8yODgwMjYwMzYtMTgyZTQyMmEtMmQwNi00MWRkLTgwNGEtMWMyYTg3NGI4MTNiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE1MDgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc1NmJiZGYyNDFlYzUzYjY3ZDZiNzYzNzM5Nzg3NjczOGI2MDBlMTUxN2YxNTkzMmZjYjMwYmQyNTYzMWJiMTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2cELZ-UjKqFJQusindfzxdhl_jrBCreGAJLRQW5dwyk",
     tags: [
       "React Js",
       "Type Script",
@@ -303,7 +303,7 @@ export const projects = [
     description:
       "Developed a full-stack web application for Dog breed and disease Identification. Key features are User authentication and authorization to create dog profiles, upload images, and view the dog breed and disease prediction.",
     image:
-      "https://private-user-images.githubusercontent.com/61136045/288037998-198ee535-f75b-4d23-b63c-a2b7edc43354.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3Nzk2MzksIm5iZiI6MTcwMTc3OTMzOSwicGF0aCI6Ii82MTEzNjA0NS8yODgwMzc5OTgtMTk4ZWU1MzUtZjc1Yi00ZDIzLWI2M2MtYTJiN2VkYzQzMzU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDEyMjg1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1MDQ0NzI3M2ExZTdmMTNhZjg5ZWI1ODI2OWVjNTRmNGYyZWVjZjgzZDAwODJlY2Q1OTE4YzJmODNhZWY2OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ib4uEuek3nZuFTLlHcrYcRnHfnAyq_zZIel3G7vjy8M",
+      "https://private-user-images.githubusercontent.com/61136045/288037998-198ee535-f75b-4d23-b63c-a2b7edc43354.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODg2NjYsIm5iZiI6MTcwMTc4ODM2NiwicGF0aCI6Ii82MTEzNjA0NS8yODgwMzc5OTgtMTk4ZWU1MzUtZjc1Yi00ZDIzLWI2M2MtYTJiN2VkYzQzMzU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE0NTkyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllY2E5MDg4MDVhYTc5OTE3MjJkN2JiZWNmMGI5YzQ1NGM1OTc4ZTBkZjVjMjVjODNkMzc0MzEwODA3NTZhM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.eFW9MTeFs0NvmByr7diKMWgzR4SMYYkYG6j668RntGA",
     tags: [
       "React Js",
       "MongoDb",
@@ -341,7 +341,7 @@ export const projects = [
     description:
       "Designed and developed the a Task Management System. The system allow users to create, update, and manage tasks. Key features are task prioritization and status tracking",
     image:
-      "https://private-user-images.githubusercontent.com/61136045/270162521-e9f31fde-b907-47ad-9f09-c8c203d56962.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3Nzc4MjQsIm5iZiI6MTcwMTc3NzUyNCwicGF0aCI6Ii82MTEzNjA0NS8yNzAxNjI1MjEtZTlmMzFmZGUtYjkwNy00N2FkLTlmMDktYzhjMjAzZDU2OTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDExNTg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYzYmE4NTIxOTJhMDM0NjBkNDY5YWYwOGZiOGFmY2RjODJlYjFhN2E0MjNlN2QxOTUyMmMyY2I0NDQ0MTkxODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4ZH--dQieJnD0BVaWm1bGSTNMQguX6g8mkRSZD8HxaU",
+      "https://private-user-images.githubusercontent.com/61136045/270162521-e9f31fde-b907-47ad-9f09-c8c203d56962.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODkyODEsIm5iZiI6MTcwMTc4ODk4MSwicGF0aCI6Ii82MTEzNjA0NS8yNzAxNjI1MjEtZTlmMzFmZGUtYjkwNy00N2FkLTlmMDktYzhjMjAzZDU2OTYyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE1MDk0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxYTA5ODBlYjQ3MTBjZDI5ZmFiMmVjZmIyZDgxYjY3MWFjZmMxZGJhYjI2Mzg5ZmViNjQ5NDkzODg4ZmNiNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Bf3C0zoZQBLfnh-ZplIxNC02nfSjjMgjVjXV1gMZtLU",
     tags: [
       "React Js",
       "Bootsrap",
@@ -361,7 +361,7 @@ export const projects = [
     description:
       "To-Do List application using React and Redux Toolkit. The app allows user to add, edit, delete, and mark to do as completed. Key features are local storage to persist tasks even after a page refresh and filters to show all tasks, completed tasks, or active tasks",
     image:
-      "https://private-user-images.githubusercontent.com/61136045/288035574-c5ba83cc-3966-4d1f-9790-b2378bbe6043.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3NzkwMzIsIm5iZiI6MTcwMTc3ODczMiwicGF0aCI6Ii82MTEzNjA0NS8yODgwMzU1NzQtYzViYTgzY2MtMzk2Ni00ZDFmLTk3OTAtYjIzNzhiYmU2MDQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDEyMTg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiMjI1OWRhM2JmN2JhNTM4MDBjZmY5Njg3MTJmYzYwODc3M2IyOWE2Y2UzMGQ4MTE5NjE0ODQ0NWYyNGQ4ZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vAL22CENvIv3jehJnxje0nLTDVoFRKynUKIB00ryXNA",
+      "https://private-user-images.githubusercontent.com/61136045/288035574-c5ba83cc-3966-4d1f-9790-b2378bbe6043.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODkzMTYsIm5iZiI6MTcwMTc4OTAxNiwicGF0aCI6Ii82MTEzNjA0NS8yODgwMzU1NzQtYzViYTgzY2MtMzk2Ni00ZDFmLTk3OTAtYjIzNzhiYmU2MDQzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE1MTAxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRjYjRlZTFjODQxNTU5YWQ0MTk4YTY5NmM1YWE2ODJkYTU1ZGJmNGI4ZmE0YTM5M2I3ZWY4ODNkNzc5YTFhZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3_2zxp2rbpsAvjF9C1JwG_jYzZilteC5HlUO-sBbMhQ",
     tags: [
       "React Js",
       "Redux",
@@ -381,7 +381,7 @@ export const projects = [
     description:
       "Implementeda Full-Stack Football Manager system. The app allows user to select teams and genarate randome matches between selected teams. Key features are the ability to add, edit delete teams and sort match points. The app also allows users to view the team and Points table.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/61136045/288045414-875e4730-a5dd-4610-9100-72c6747c1f95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231205T125914Z&X-Amz-Expires=300&X-Amz-Signature=8a6d2ccb0c5622ffcbf60d1643f8e30b94169b36fa63b77a2c871d0715c0a6d7&X-Amz-SignedHeaders=host&actor_id=61136045&key_id=0&repo_id=366509712",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/61136045/288045414-875e4730-a5dd-4610-9100-72c6747c1f95.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231205T151117Z&X-Amz-Expires=300&X-Amz-Signature=04d17a7577eb9543ba3b7a084a861f6d5416498f6209b10c71ebfdb8f646a165&X-Amz-SignedHeaders=host&actor_id=61136045&key_id=0&repo_id=366509712",
     tags: [
       "Java",
       "Angular",
@@ -397,17 +397,31 @@ export const projects = [
   },
 
   {
-    id: 5,
-    title: "Todo Web App",
-    date: "Jun 2021",
+    id: 4,
+    title: "BRIDGE Container Deposits",
+    date: "2022",
     description:
-      " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
+      "To Keep Track of Container Deposits in BRIDGE. The app allows users to add, edit, delete, and view container deposits. Key features are the ability to search container deposits by container number and to view the total amount of container deposits.",
     image:
-      "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "https://private-user-images.githubusercontent.com/61136045/288078312-910f6387-a1e6-4ddb-92fd-53df5cca9d77.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODgwNDcsIm5iZiI6MTcwMTc4Nzc0NywicGF0aCI6Ii82MTEzNjA0NS8yODgwNzgzMTItOTEwZjYzODctYTFlNi00ZGRiLTkyZmQtNTNkZjVjY2E5ZDc3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE0NDkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZjYmI0ZDc2ODAyYmU5YjA2MGExYTllZGI5OWJlMDI0ZWUzMDM0NTIwMTdlOTFkNWVmNmNjYWY3MDQ4YjJhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RLs5M35aQcJN6VSx2ycjh46kwXznbA_BnxcyX9C1KjI",
+    tags: ["React Js", "Node Js", "MongoDB", "Bootstrap", "Firebase"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Todo-Web-App",
-    webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/Meraj6091/Bridge-Container-Deposits",
+    webapp: "https://github.com/Meraj6091/Bridge-Container-Deposits",
+  },
+
+  {
+    id: 5,
+    title: "Train Seat Reservation System",
+    date: "2020",
+    description:
+      " Application to track passengers and booking details by passenger details which involves CRUD operations.",
+    image:
+      "https://private-user-images.githubusercontent.com/61136045/288079892-3848530e-80ab-4349-aaf8-7b44ee605bbf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE3ODgzMjQsIm5iZiI6MTcwMTc4ODAyNCwicGF0aCI6Ii82MTEzNjA0NS8yODgwNzk4OTItMzg0ODUzMGUtODBhYi00MzQ5LWFhZjgtN2I0NGVlNjA1YmJmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA1VDE0NTM0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1YmY4ZjE3M2I2ZDAxZjUxNGUyZWMxY2Y4ZDU0OWQzZDZmOGM4NjYxMWRhYzliNjNlNzhmM2RmNWYwNGJlYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ddSWZ6_SKrLsp0IbSES2R1rFz3DkggAEalweF0l-iWs",
+    tags: ["Java", "JavaFX", "File Handling", "OOP"],
+    category: "web app",
+    github: "https://github.com/Arush16101999/TrainTicketBookingSystem",
+    webapp: "https://github.com/Arush16101999/TrainTicketBookingSystem",
   },
 ];
 

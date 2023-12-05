@@ -2,7 +2,7 @@ import styled from "styled-components";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import InstagramIcon from "@mui/icons-material/Instagram";
+import GitHubIcon from "@mui/icons-material/GitHub";
 import { Bio } from "../../data/constants";
 
 const FooterContainer = styled.div`
@@ -88,19 +88,17 @@ function Footer() {
     <FooterContainer>
       <FooterWrapper>
         <Logo>Arushan Manoharan</Logo>
+        {/* <Logo>Mail - arushmano@gmail.com</Logo> */}
         <Nav>
-          <NavLink href="about">About</NavLink>
-          <NavLink href="skills">Skills</NavLink>
-          <NavLink href="experience">Experience</NavLink>
-          <NavLink href="projects">Projects</NavLink>
-          <NavLink href="education">Education</NavLink>
+          <NavLink>+94 752784977</NavLink>
+          <NavLink> arushmano@gmail.com</NavLink>
         </Nav>
         <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.facebook} target="display">
+          {/* <SocialMediaIcon href={Bio.facebook} target="display">
             <FacebookIcon />
-          </SocialMediaIcon>
+          </SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.twitter} target="display">
-            <TwitterIcon />
+            <GitHubIcon />
           </SocialMediaIcon>
           <SocialMediaIcon href={Bio.linkedin} target="display">
             <LinkedInIcon />
