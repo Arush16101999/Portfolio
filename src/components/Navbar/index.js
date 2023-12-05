@@ -67,7 +67,7 @@ const Navbar = () => {
         {isOpen && (
           <MobileMenu isOpen={isOpen}>
             <MobileLink
-              href="about"
+              href="#about"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
@@ -75,7 +75,7 @@ const Navbar = () => {
               About
             </MobileLink>
             <MobileLink
-              href="skills"
+              href="#skills"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
@@ -83,7 +83,7 @@ const Navbar = () => {
               Skills
             </MobileLink>
             <MobileLink
-              href="experience"
+              href="#experience"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
@@ -91,7 +91,7 @@ const Navbar = () => {
               Experience
             </MobileLink>
             <MobileLink
-              href="projects"
+              href="#projects"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
@@ -99,7 +99,7 @@ const Navbar = () => {
               Projects
             </MobileLink>
             <MobileLink
-              href="education"
+              href="#education"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
