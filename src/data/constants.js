@@ -296,6 +296,24 @@ export const projects = [
     webapp: "https://www.tella.tv/video/clgrmuijw00xk0fl6hv799166/view",
   },
   {
+    id: 8,
+    title: "React SummarizerAI",
+    date: "Dec 2023",
+    description:
+      "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
+    image: "/images/8.png",
+    tags: [
+      "React Js",
+      "Redux Toolkit",
+      "RapidAPI",
+      "Local Storage",
+      "Tailwin CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/Arush16101999/React-SummarizeAI",
+    webapp: "https://summarize-articels-arushan.netlify.app/",
+  },
+  {
     id: 0,
     title: "CANINE",
     date: "Sep 2021 - May 2022",
