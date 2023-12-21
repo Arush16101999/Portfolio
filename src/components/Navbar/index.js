@@ -10,16 +10,16 @@ import {
   ButtonContainer,
   MobileIcon,
   MobileMenu,
-  MobileNavLogo,
+  // MobileNavLogo,
   MobileLink,
 } from "./NavbarStyledComponent";
 import { DiCssdeck } from "react-icons/di";
 import { FaBars } from "react-icons/fa";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
+// import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { Bio } from "../../data/constants";
-import { Close, CloseRounded } from "@mui/icons-material";
+// import { Close, CloseRounded } from "@mui/icons-material";
 import { useTheme } from "styled-components";
-import { SocialMediaIcon } from "../About/AboutStyle";
+// import { SocialMediaIcon } from "../About/AboutStyle";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -27,8 +27,17 @@ const Navbar = () => {
   return (
     <Nav>
       <NavbarContainer>
-        <NavLogo to="/">
-          <a
+        <NavLogo
+          to="/"
+          style={{
+            display: "flex",
+            alignItems: "center",
+            color: "white",
+            marginBottom: "20;",
+            cursor: "pointer",
+          }}
+        >
+          {/* <a
             style={{
               display: "flex",
               alignItems: "center",
@@ -36,9 +45,9 @@ const Navbar = () => {
               marginBottom: "20;",
               cursor: "pointer",
             }}
-          >
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
-          </a>
+          > */}
+          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          {/* </a> */}
         </NavLogo>
         <MobileIcon>
           <FaBars

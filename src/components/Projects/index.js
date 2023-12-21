@@ -4,17 +4,17 @@ import {
   Container,
   Wrapper,
   Title,
-  Desc,
+  // Desc,
   CardContainer,
-  ToggleButtonGroup,
-  ToggleButton,
-  Divider,
+  // ToggleButtonGroup,
+  // ToggleButton,
+  // Divider,
 } from "./ProjectsStyle";
 import ProjectCard from "../Cards/ProjectCards";
 import { projects } from "../../data/constants";
 
 const Projects = ({ openModal, setOpenModal }) => {
-  const [toggle, setToggle] = useState("all");
+  const [toggle] = useState("all");
   return (
     <Container id="projects">
       <Wrapper>
@@ -89,7 +89,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               />
             ))}
           {projects
-            .filter((item) => item.category == toggle)
+            .filter((item) => item.category === toggle)
             .map((project) => (
               <ProjectCard
                 project={project}

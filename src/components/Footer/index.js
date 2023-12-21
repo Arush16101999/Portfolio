@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import FacebookIcon from "@mui/icons-material/Facebook";
-import TwitterIcon from "@mui/icons-material/Twitter";
+// import FacebookIcon from "@mui/icons-material/Facebook";
+// import TwitterIcon from "@mui/icons-material/Twitter";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import { Bio } from "../../data/constants";
@@ -90,8 +90,11 @@ function Footer() {
         <Logo>Arushan Manoharan</Logo>
         {/* <Logo>Mail - arushmano@gmail.com</Logo> */}
         <Nav>
-          <NavLink>+94 752784977</NavLink>
-          <NavLink> arushmano@gmail.com</NavLink>
+          <NavLink href="tel:+94752784977">+94 752784977</NavLink>
+          <NavLink href="mailto:arushmano@gmail.com">
+            {" "}
+            arushmano@gmail.com
+          </NavLink>
         </Nav>
         <SocialMediaIcons>
           {/* <SocialMediaIcon href={Bio.facebook} target="display">
