@@ -298,7 +298,19 @@ export const projects = [
   {
     id: 8,
     title: "React SummarizerAI",
-    date: "Dec 2023",
+    date: "March 2024",
+    description:
+      "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
+    image: "/images/8.png",
+    tags: ["React Js", "React Router", "Context API", "Tailwin CSS"],
+    category: "web app",
+    github: "https://github.com/Arush16101999/spotify-clone",
+    webapp: "https://spotify-clone-arush.netlify.app/",
+  },
+  {
+    id: 7,
+    title: "Spotify Clone",
+    date: "June 2024",
     description:
       "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
     image: "/images/8.png",
