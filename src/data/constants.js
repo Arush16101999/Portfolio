@@ -41,7 +41,7 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
       },
       {
-        name: "JavaScript",
+        name: "JavaScript / ES6",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
@@ -111,6 +111,10 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
       },
       {
+        name: "RESTful API",
+      },
+
+      {
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
@@ -179,6 +183,12 @@ export const skills = [
         image:
           "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
       },
+      {
+        name: "Microservices",
+      },
+      {
+        name: "Docker",
+      },
     ],
   },
 ];
@@ -218,7 +228,7 @@ export const experiences = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAB4FBMVEUAAAD////8/PwEBAQnJycAAgDvE4HNzc0AAAMEAAC5ubktLS0ABABNTU0DAQD5+fnq6uqwsLAPjUQAADcfGVXV1dVmZmbk5OQ5OTlsbGwZGRnx8fE1NTUfGFqpqamjo6NAQEBcXFzmHIB+fn7CwsKZmZmNjY0SEhLT09MTi0QfiEttHjvU09/iE3UgG1MWAABUVFTvFHwtQjY7Ly9UNDOIYF1bGzC6eXolFRIHAArfcnViLSsIABKFJUzoYWymWkmXKlzbT3LTemAcABClJl3hT2LpgnJBJxdBDh3ePV7wi2eBWjZHDSa6L2nWKmL+gXK2cFDKK4baJG3ahFo9HRbRKnX0jUxsRSl/JlTWKILvbGGoazcmAACWKVH2jjvLjzz7gVEnJTDtky+UZCoEAC0AABz+fl77jSskIUIXFDykQGXtEI/UhioYFi4MA0OHhZw7FCm6OnrsM2FOJDRsLEbWPoZxboDvmDrDjzsfKEJjSSDfmj+iOXT+jxy5hETtnCCKWTb+l2j9nhffjku7RXNuQCYvXj2Bt5/7p1MYOCHj//PxpycqcEsKHQ/E6tJSm3DusBac0LT0fyt1qY7kEWL8skMrhFPL8eD1Y1bigjZcpHnpVl75vkFdi3B1YEJWPi8Hq0ujAAAKjUlEQVR4nO2agV8TVxLH3+5mw26y2Q0YSCAhxiQEgg2Q3tUzPeu1Vz3FFvGooFFK2/QqIKenVct5LUYDVTRej/bEu569u3/1Zt57G4IGP/bzSeTCZ74guLtvl/ll5s3MewljBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQxOtF220DWo6m7XWNfXtYoK4ZjP0iwgKpVKSHsd7B3Tao6Wi6wX75FmOx9EBC6YsofbttUJMxCqbFDv3qMPw33uMJZgaie08hYwff/jUm03hvzJf2hT27bVJTMW3TPPLO0d8wmIqsN+BJHQhkBvdU5bBNNvrue78dtepF7am6YbP3jx3/3QnIp4yXRM392d6Ypq7rjBUMy2AnJ8ZPfcAKllDI+FfbCwTP6bpt2lglPpw4PXmGGaa92yY1F92C+WeaFlSJ309NfnSW6aZh7LZRTQU9qFvgwYPT00dnzjHNKhR226ZmY9rgQPN8cerC6kVwqXakoO+2SU3GZJY++3Ex+Wzuk8OGbRt7LEgZFgk2e2wqN/7p8jnDMAuQSttRooGN2GdvuHRDzdMgw4C/DM2yTk4kQWDpcwbhiR5sQ4WGUPiHfYIv0ikodJZpQkgyix0sFnPjl+bvtKOyGmi7ZiyE+vv7Q6GRkcWwH3IKFAk4PXq5uIQC/zh7xGhqJdR2bmkbXajroBo1Ui+c0p6/DCeMKyMhVBgKXf2TD1aCvBheu57zer/8dP7rc9jX/HwdO/PSbqhxN/iKPeIOo1DiwuIIuDDUH9oXTDAeoTeuJ5P5Ly/NwyTUoO6/yvNfmUhnUGlImqv3D3Q49We7B6Ttsc7wC7dE92/bbUjEu7dd7k7JV/TIAsobGQld/aqDj7x5Czz45FKpdAeyDkzLpqmDPxdXFUV9UZ6qKj04IP7cNRWV432Zxi9LWGqAH30+eUMdcZFFCgsiTkdG9r0xBh48fyuXzz+5MFf6GlYUkFULTcw1HY0NBcOCcNUTbXStF67Ed7hPGWByRRBwGl0e43/V+GJhpJ9nm6tf+Ri7XEzm81NH58rLd5unTLKjoaqyHyI02tC/cCXV6DzHJ588xuPgBVJ4zda4E0Oh/pHF22z2etGb9+aOzsyX/zzabIGJnQQCHsbCjWzkVu4wdRXuQx6mQUdtdPcB/nc17kRIpou3jdm1paWkNz8+U15Z/kvTS2Gf3yNAMU4wVjv2ePzoYBW+BjyxmN/vj3kS0mCnj/XCLzUc2RruZ27aGRS5tgOdrKbEvX7PmLwarCXv24swDRev8ByTTHrHZ0rlykXW7F50K50HFD71IvVXexTVQTfsrxuDQKZJ8xCsHz7YLcAgBYEZBT2oqil5OSXv3V/7m5BORxauQI5Jer35/OlT5ZXS17PNzDCuRE0I7QRrHEdRE64FGvO7YdYpB/tqgTYozFe6Gz4Tsww8Df2vZOQf4FUDjsW2J/fU7cWFI+zyLS8I9E6dKlVWlj8wmq+w5kZMKeiVmmQmjIKzYXeoI6x0tipF2FdHPMV3/PgTeIZSHaVD3urhiQlfEk0oxMXDZ8boN0UUuFScXK6slO7A9GzZirBHiMEgcqvZgDBKVRJyTK9QjC7tbJxkor2y30mL+ao47i7ngDzhBi0Mg170/W+wSuTzubeXy5WV9RMGa/o8rDEkbUwIhfCjR3HU7UYNSYUJ12ARd6oLjo/UJqGbOIVCkYZUd28e1MFy/sPrXF8+d2GuUqlAKdRY67ZmpLm1gGR9UWll2j3jcdxAA7O3NwIyx7oxkBDCsYGRBOQQ92E6bhzexD4m74VCOFeuVMqfmEYLFWakoTV/yVYHJuZgX9CJYs6BmOPnMvwF8G2vde4BT5XcYZC2wizhqPxedcunHFuTjVreu5R8b6ZcLlVgSWGgc83WKBSVXXVq1UNMQvBaALoCRx5wK1W3tY4kAmMBScIthlg+fNKhqsedu7ysKlgMa4naPp8E9+WhFI7fq5TLleXPUXjLVr5jz0fkAZFlHGxQBuFImqyKMRGQBAS2HhCTLShGcEpx3ICAiE3JfKXWPMwx14o5qIOg8fS9MipcBQ+aEKMtyaUapkZuQY880xeVUdUhrrvlWi445EFw6xF1qTKiyMLg27okTjiKH1a7lqWb7NoalweAQKT0LWvpey9REUVRV3GH9GnUI45ZTyojHRPl7Qm/Go53ukTFC+L4+SRUt/TDvamUO8uHGC5uGSbRIm9koNJPzoEDy6WLbPDNsda9f9YjjeqsFS9VSEzJ8q/Jggnn426x24Z0uY/3RuJUQC6i6laS+DhMJdduJZd4hOanJtdLpWqlsnqW3X8QZpBlWhGlmjBZFcUQOy5FrollnPGTaSkk4PY6W7rcZIJJqFdGpDLA3GVi7QYHI8Ji5k3RiXqXoE6sg7xyZf4uezj89FFvq/bYBmWaCMstpqB0Q7B+jFSBBTPTaGkIaddJ8FaWH9Y3rBGpmucxrBKgLp/Lg8Dj96pVjNFV03rclX0QbNUGqdugwMvOtLogjNWNcQONF0Nfw0XjkIfVVlBO/YxyG3bcGWCzl4u8zMO/3PH1cgUlrp5g94ezXcOPMsxoST3sHOrg+LnAA93iaChTP/Hj8qR4EQLysI4B3J1Iuff21D8/LYegA0+ugcAkRqk3eZp7sFqeP8P++hQUZv+uvu6Pee2wXfpzhjN8v8X9j8VurCVz6MFkDurEqaqMUcYeD2ezXV3D33W2rvNuDo01mijSMqFRu3lrOscV8hUh6qtUKz9+yx4+BX2g8G+PEi3d0Nca/Wo45BWfJMB3Pplu2bgnms/xxQTuO01ubkAerVbnzjDr8XAXVzj8fbpNP1Ni2hqzRt+dFu5DpqBOgA+r1fnVwwXpwq5s11M10KYfSdBMSKJJLpArzD1br4o8CjFaED5Eldnvw6872TQBsdo9uTYtkihKzI2vVzfAgxuVH84wWBWCE7NZrhDLfhtJhOmn4zTUdHZoTWQYSKNQ7cehTnDmPzoLCjX2GGoFSswOP3iEH0tsl/fvbbAU3wi02MGJnNCHMQqFcFMIXJm7CxchfT6UYZrNYtnH5rw9QIGmqbPRd6ZdD6JCqBMbqK+y8sMdGKAzw2I4E3m64WW/bdC5SDb78VRNoHcp/+TS5sZGFb4r8zMnYJbCetGCmegqfPqPzpe9aft/hs1zzLEtD4LC3D9RICaa0o8Qo5ppMxuK5f1slywZ/3oUY1q7fN4LJ9ShiampvJtGvd4nz0AgV1iZuzPKDHCywUwDOlMhECR+l24bhZgRb0ycnsola8B64qefNjfhe3N+9RzTCpZlokINVheC7PC/lQMtWQi3ADDz8I1DB7fx1n9czv2X6W4XCv324JsusUCsXeYh9KMv3f/U63S0iaTn4N2MJWqbLT7lBF+Gzne8Ic3WdaDbtbZTa6rrFhRF2zZtCRNFRDN2cFubpBgJiIMoxQ+NuljgwoJREO8S2s+pqb0E7YOOgWqjSkN+GxyucKfPVtqteueiZWDB44hf7ultB/W0nUCCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIAiCIPYs/wPqC5SZvaUvzgAAAABJRU5ErkJggg==",
     role: "Software Engineer Intern",
     company: "TASA Lanka Pvt Ltd.",
-    date: "June 2023 - July 2022",
+    date: "June 2022 - July 2022",
     desc: "Working on the Delivery Management System, Web & Mobile application that allows users to manage their delivery services.",
     skills: ["ReactJS", "React Native", "Redux", "NodeJs", "Material UI"],
     // doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
@@ -313,7 +323,7 @@ export const projects = [
     date: "June 2024",
     description:
       "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
-    image: "/images/8.png",
+    image: "/images/9.png",
     tags: [
       "React Js",
       "Redux Toolkit",
