@@ -312,7 +312,13 @@ export const projects = [
     description:
       "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
     image: "/images/8.png",
-    tags: ["React Js", "React Router", "Context API", "Tailwin CSS"],
+    tags: [
+      "React Js",
+      "Redux Toolkit",
+      "RapidAPI",
+      "Local Storage",
+      "Tailwin CSS",
+    ],
     category: "web app",
     github: "https://github.com/Arush16101999/spotify-clone",
     webapp: "https://spotify-clone-arush.netlify.app/",
@@ -324,13 +330,7 @@ export const projects = [
     description:
       "This is a simple web app that uses the power of OpenAI GPT to summarize any article or blog post in a few sentences.",
     image: "/images/9.png",
-    tags: [
-      "React Js",
-      "Redux Toolkit",
-      "RapidAPI",
-      "Local Storage",
-      "Tailwin CSS",
-    ],
+    tags: ["React Js", "React Router", "Context API", "Tailwin CSS"],
     category: "web app",
     github: "https://github.com/Arush16101999/React-SummarizeAI",
     webapp: "https://summarize-articels-arushan.netlify.app/",
