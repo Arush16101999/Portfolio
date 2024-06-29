@@ -1,6 +1,6 @@
 export const Bio = {
   name: "Arushan Manoharan",
-  roles: ["Frontend Developer", "Full Stack Developer"],
+  roles: ["Full Stack Developer", "Frontend Developer"],
   description:
     "I am a hardworking and ambitious individual with a great passion for the Computer Science and Software Engineering industry. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills. My passion in life is utilizing my technical knowledge to benefit others and associations.",
   github: "https://github.com/Arush16101999",
@@ -295,7 +295,7 @@ export const projects = [
       "React Js",
       "Type Script",
       "Flask",
-      "FaskAPI",
+      "FastAPI",
       "MYSQL workbench",
       "Python",
       "Miniconda",
