@@ -320,8 +320,8 @@ export const projects = [
       "Tailwin CSS",
     ],
     category: "web app",
-    github: "https://github.com/Arush16101999/spotify-clone",
-    webapp: "https://spotify-clone-arush.netlify.app/",
+    github: "https://github.com/Arush16101999/React-SummarizeAI",
+    webapp: "https://summarize-articels-arushan.netlify.app/",
   },
   {
     id: 7,
@@ -332,8 +332,8 @@ export const projects = [
     image: "/images/9.png",
     tags: ["React Js", "React Router", "Context API", "Tailwin CSS"],
     category: "web app",
-    github: "https://github.com/Arush16101999/React-SummarizeAI",
-    webapp: "https://summarize-articels-arushan.netlify.app/",
+    github: "https://github.com/Arush16101999/spotify-clone",
+    webapp: "https://spotify-clone-arush.netlify.app/",
   },
   {
     id: 0,
