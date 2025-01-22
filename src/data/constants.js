@@ -2,7 +2,7 @@ export const Bio = {
   name: "Arushan Manoharan",
   roles: ["Full Stack Developer", "Frontend Developer"],
   description:
-    "I am a hardworking and ambitious individual with a great passion for the Computer Science and Software Engineering industry. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills. My passion in life is utilizing my technical knowledge to benefit others and associations.",
+    "I am a hardworking and ambitious individual with 1.5 years of experience in Computer Science and Software Engineering industry. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills. My passion in life is utilizing my technical knowledge to benefit others and associations.",
   github: "https://github.com/Arush16101999",
   resume: "Arushan Manoharan_CV.pdf",
   // "https://drive.google.com/file/d/149s9ij8ZtdEu1tdfj2Nx1YEzNv0xJ9sr/view?usp=sharing",
@@ -194,6 +194,26 @@ export const skills = [
 ];
 
 export const experiences = [
+  {
+    id: 0,
+    img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fceylonx&psig=AOvVaw2HNvstSOdin_WV_2FXL65o&ust=1737609412394000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj49uLJiIsDFQAAAAAdAAAAABAE",
+    role: "Associate Software Engineer",
+    company: "CeylonX Pvt Ltd.",
+    date: "July 2024 - Dec 2024",
+    desc: "Human Resource Information System Architecture Design & Implementation",
+    skills: [
+      "React Js",
+      "Spring Boot",
+      "Node Js",
+      "Microservices",
+      "Micro Frontend",
+      "RESTful API",
+      "PostgreSQL",
+      "MongoDB",
+      "Flyway Migration",
+      "Swagger",
+    ],
+  },
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/C4D0BAQFk-jgi7ubbjQ/company-logo_200_200/0/1604504199702?e=2147483647&v=beta&t=jbVIgSDmZiolwnly4J0rSoa4p6dbgwNr94BiDx1pBMc",
